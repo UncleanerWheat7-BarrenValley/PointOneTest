@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44472",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Sam-D\\source\\repos\\minimalAPIDemoApp\\minimalAPIDemo\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
